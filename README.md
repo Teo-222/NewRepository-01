@@ -1,2 +1,1 @@
-# NewRepository-01
-Este es un repositorio de prueba 
+Este proyecto es la prueba de como clonar un repositorio 
